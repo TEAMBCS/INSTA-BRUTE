@@ -96,15 +96,15 @@ This script showcases your coding ability and understanding of HTTP requests, th
 
  pkg install nano
 
- git clone 
+ git clone https://github.com/TEAMBCS/INSTA-BRUTE.git
 
- cd INSTAGRAM-BRUTE
+ cd INSTA-BRUTE
 
  chmod +x *
 
  python3 setup.py
 
- python3 brute.py
+ python3 BRUTE.py
 ```
 # *Tool pass* ©️
 
